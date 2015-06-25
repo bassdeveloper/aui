@@ -1,15 +1,17 @@
-### Project no longer maintained
+### Project maintained by Rishabh Chakrabarti
 
-# Archlinux U Install
+# Archlinux 'Ultimate' Install
 
-Install and configure archlinux has never been easier!
+- Objective : To create a shell script for automating the installation of Arch linux on a particular system. 
+- Installing and configuring Arch-linux has never been easier!
 
-You can try it first with a `virtualbox`
+- You can try it first with Oracle Virtualbox.
 
 ## Prerequisites
 
-- A working internet connection
+- A working internet connection, preferably LAN.
 - Logged in as 'root'
+
 
 ## How to get it
 ### With git
